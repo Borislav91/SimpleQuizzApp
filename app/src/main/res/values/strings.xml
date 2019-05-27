@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SimpleQuizzApp</string>
+
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="initial_score">Score 0/13</string>
+
+
+    <string name="incorrect_toast">Wrong!</string>
+    <string name="correct_toast">You got it!</string>
+
+    <string name="question_1">Snoop Dogg smokes weed every day.</string>
+    <string name="question_2">Eminem is a rapper.</string>
+    <string name="question_3">Jazz is a music genre.</string>
+    <string name="question_4">Americans eat a lot of turkey during Thank\'s giving.</string>
+    <string name="question_5">England is the capital of London.</string>
+    <string name="question_6">Russians drink a lot of vodka</string>
+    <string name="question_7">Bulgaria is located in Europe.</string>
+</resources>
